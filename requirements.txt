@@ -1,0 +1,19 @@
+flask==3.1.1
+python-dotenv==1.1.0
+pypdf==5.6.1
+sentence-transformers==4.1.0
+
+langchain==0.3.13
+langchain-core==0.3.29
+langchain-community==0.3.13
+langchain-text-splitters==0.3.3
+
+langchain-pinecone==0.2.0
+langchain-groq==0.2.0
+langchain-huggingface==0.1.2
+
+httpx
+urllib3
+pinecone-client
+
+-e .
